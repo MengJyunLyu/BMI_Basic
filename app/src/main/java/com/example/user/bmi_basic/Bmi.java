@@ -16,12 +16,6 @@ public class Bmi extends AppCompatActivity {
     private TextView result;
     private TextView fieldSuggest;
 
-//    @Override
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//        setContentView(R.layout.framelayout);
-//    }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
